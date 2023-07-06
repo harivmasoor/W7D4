@@ -1,0 +1,22 @@
+/* PHASE 5: Cats */
+
+.content-header {
+    height: 400px;
+    background-image: url("CSS_Friends_Project-master/1649303881384.jpeg");
+    background-size: cover;
+    position: relative;
+  }
+  
+  .content-header h1 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    text-shadow: 2px 2px 4px #000000;
+    line-height: 1;
+  }
+  
+  .content-header button {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+  }
